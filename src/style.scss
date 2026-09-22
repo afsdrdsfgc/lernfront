@@ -1,0 +1,7 @@
+@use "sass:color";
+
+$bgcolor: #B000B5;
+
+body {
+    background: color.scale($bgcolor, $lightness: 15%);
+}
