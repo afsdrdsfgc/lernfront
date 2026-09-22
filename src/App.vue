@@ -1,0 +1,10 @@
+<script steup>
+
+</script>
+
+<template>
+    <h1>Hello,vue</h1>
+ </template>
+
+<style>
+</style>
